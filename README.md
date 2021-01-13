@@ -12,6 +12,6 @@ light dimmer and heater current adjustment only, open loop system
 
 ### hardware
 
-![average_current_control_only/hardware/Electric_ blanket_light_dimmer_schematic.jpg](average_current_control_only/hardware/Electric_ blanket_light_dimmer_schematic.jpg)  
+![average_current_control_only/hardware/Electric_ blanket_light_dimmer_schematic.jpg](average_current_control_only/hardware/Electric_ blanket_light_dimmer_schematic.jpg)
 
 ![average_current_control_only/hardware/schematic.jpg](average_current_control_only/hardware/schematic.jpg)

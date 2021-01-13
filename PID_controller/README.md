@@ -5,4 +5,4 @@ download AN2558 and the AVR211 code https://www.microchip.com/wwwAppNotes/AppNot
 it was used with IAR compiler.
 
 ### ref: port to avr-gcc, uses Arduino IDE, chip attiny85, ok  
-source code [PID_controller/AVR211_arduino](PID_controller/AVR211_arduino)
+source code [AVR211_arduino](AVR211_arduino)

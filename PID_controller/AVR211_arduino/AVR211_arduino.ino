@@ -34,9 +34,16 @@
 #include <avr/interrupt.h>
 #include <stdio.h>
 #include <stdint.h>
-extern "C"{
-#include "pid.h"
-};
+
+#ifdef __cplusplus
+extern "C" { 
+  #include "pid.h"  // for arduino IDE avr-g++
+}  
+#endif
+
+#ifndef __cplusplus
+#include "pid.h"  // for command line avr-gcc
+#endif
 
 
 /*! \brief P, I and D parameter values
@@ -124,7 +131,7 @@ int16_t Get_Measurement(void)
  * Set the output from the controller as input
  * to system.
  */
-void Set_Input(int16_t inputValue)
+void Set_Input(int16_t inputValue )
 {
   ; // port to avr-gcc,
     // AVR211_arduino.ino:127:24: warning: unused parameter 'inputValue' [-Wunused-parameter]

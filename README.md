@@ -9,6 +9,8 @@ light dimmer and heater current adjustment only, open loop system
 ![average_current_control_only/log_plot/2021-01-12bed-heater-plot1.jpg](average_current_control_only/log_plot/2021-01-12bed-heater-plot1.jpg)  
 
 ![average_current_control_only/log_plot/2021-01-13bed-heater-plot1.jpg](average_current_control_only/log_plot/2021-01-13bed-heater-plot1.jpg)  
+  
+![average_current_control_only/log_plot/2021-01-14bed-heater-plot1.jpg](average_current_control_only/log_plot/2021-01-14bed-heater-plot1.jpg)   
 
 ### hardware
 

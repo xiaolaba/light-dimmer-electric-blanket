@@ -10,11 +10,18 @@ light dimmer and heater current adjustment only, open loop system
 
 ![average_current_control_only/log_plot/2021-01-13bed-heater-plot1.jpg](average_current_control_only/log_plot/2021-01-13bed-heater-plot1.jpg)  
   
-![average_current_control_only/log_plot/2021-01-14bed-heater-plot1.jpg](average_current_control_only/log_plot/2021-01-14bed-heater-plot1.jpg)   
+![average_current_control_only/log_plot/2021-01-14bed-heater-plot1.jpg](average_current_control_only/log_plot/2021-01-14bed-heater-plot1.jpg)  
+
+
 
 ### hardware
 
 
 ![average_current_control_only/hardware/Electric_blanket_light_dimmer_schematic.jpg](average_current_control_only/hardware/Electric_blanket_light_dimmer_schematic.jpg)
 
-![average_current_control_only/hardware/schematic.jpg](average_current_control_only/hardware/schematic.jpg)
+![average_current_control_only/hardware/schematic.jpg](average_current_control_only/hardware/schematic.jpg)  
+
+
+### No heater used, ambinent temperature vs body heat/bed temperature  
+
+![average_current_control_only/log_plot/2021-01-14bed-heater-plot1.jpg](average_current_control_only/log_plot/2021-01-14bed-heater-plot1.jpg) 
